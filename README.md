@@ -15,4 +15,4 @@ Ecommerce website driven by Visual Studio's ASP.NET. Localhost backend with SQL 
 * logout 
 
 ## Demo
-
+[<img alt="youtube link to watch demo" width="75%" src="fullFits2Thumbnail.png" />](https://www.youtube.com/watch?v=bQoOWd6rXI4)
